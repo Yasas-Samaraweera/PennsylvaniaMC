@@ -2,8 +2,6 @@
 import './globals.css';
 import Navbar from './components/Navbar/Navbar';
 import Footer from './components/Footer/Footer';
-import App from './App';
-import ProgramsPage from './components/Programs/programsPage';
 
 export const metadata = {
   title: 'PMC',
@@ -20,9 +18,7 @@ export default function RootLayout({
       <body>
         <Navbar />
         <main className="pt-16 min-h-screen">
-          <App/>
-    
-          
+          {children}
         </main>
         <Footer />
       </body>

@@ -31,5 +31,18 @@
   },
   "devDependencies": {
     "@types/react-slick": "^0.23.10"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yasas-Samaraweera/PennsylvaniaMC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yasas-Samaraweera/PennsylvaniaMC/issues"
+  },
+  "homepage": "https://github.com/Yasas-Samaraweera/PennsylvaniaMC#readme"
 }
